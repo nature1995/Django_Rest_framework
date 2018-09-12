@@ -17,6 +17,7 @@ from django.urls import path
 from django.conf.urls import url, include
 from django.contrib import admin
 from rest_framework.routers import DefaultRouter
+
 from musics.views import MusicViewSet
 from shares.views import ShareViewSet
 from django.urls import path
@@ -34,5 +35,7 @@ urlpatterns = [
     url(r'^api-auth/', include('rest_framework.urls', namespace='rest_framework')),
     url(r'^qr/(.+)$',generate_qrcode , name='qr'),
     path(r'', views.home, name='主页'),
+    ]
 
-]
+
+

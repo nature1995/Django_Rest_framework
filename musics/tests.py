@@ -1,5 +1,6 @@
 from django.test import TestCase
 
+<<<<<<< HEAD
 
 # Create your tests here.
 from django.contrib.auth.models import User
@@ -88,3 +89,6 @@ class MusicViewTestCase(APITestCase):
         response = self.client.get(self.url_list_route)
         self.assertEqual(response.status_code, status.HTTP_200_OK)
         self.assertEqual(next(iter(response.data)), next(iter(music)))
+=======
+# Create your tests here.
+>>>>>>> master

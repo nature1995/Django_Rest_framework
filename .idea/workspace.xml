@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b98b27ae-1027-4c10-a994-be145923983f" name="Default" comment="">
+<<<<<<< HEAD
       <change beforePath="$PROJECT_DIR$/.idea/dataSources/16131fdb-0a33-4bdb-8912-1da72eaefa4f.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/16131fdb-0a33-4bdb-8912-1da72eaefa4f.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/dataSources/55f71db5-310b-4136-ad6e-8f20e177990c.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/dataSources/aecb2a11-534f-43e6-b68e-c402df40c777.xml" beforeDir="false" />
@@ -10,6 +11,13 @@
       <change beforePath="$PROJECT_DIR$/Django_Rest_framework/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/Django_Rest_framework/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/musics/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/musics/tests.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/musics/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/musics/views.py" afterDir="false" />
+=======
+      <change afterPath="$PROJECT_DIR$/.idea/Django_Rest_framework.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+>>>>>>> master
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -37,6 +45,20 @@
         <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
         <item name="db" type="feb32156:DbDataSourceImpl" />
       </path>
+<<<<<<< HEAD
+=======
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="db" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="db" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="main: schema" type="90513b60:SqliteImplModel$Schema" />
+      </path>
+>>>>>>> master
     </expand>
     <select />
   </component>
@@ -44,6 +66,7 @@
     <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
   </component>
   <component name="FileEditorManager">
+<<<<<<< HEAD
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="urls.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Django_Rest_framework/urls.py">
@@ -103,6 +126,14 @@
               <folding>
                 <element signature="e#0#35#0" expanded="true" />
               </folding>
+=======
+    <leaf>
+      <file leaf-file-name="music" pinned="false" current-in-tab="true">
+        <entry file="das://16131fdb-0a33-4bdb-8912-1da72eaefa4f/schema/main/table/music">
+          <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+            <state>
+              <filtering enabled="true" />
+>>>>>>> master
             </state>
           </provider>
         </entry>
@@ -113,7 +144,10 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Python Script" />
+<<<<<<< HEAD
         <option value="HTML File" />
+=======
+>>>>>>> master
       </list>
     </option>
   </component>
@@ -123,6 +157,7 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/musics/serializers.py" />
         <option value="$PROJECT_DIR$/share/serializers.py" />
         <option value="$PROJECT_DIR$/shares/serializers.py" />
@@ -136,6 +171,12 @@
         <option value="$PROJECT_DIR$/musics/models.py" />
         <option value="$PROJECT_DIR$/Django_Rest_framework/settings.py" />
         <option value="$PROJECT_DIR$/tools/views.py" />
+=======
+        <option value="$PROJECT_DIR$/Django_Rest_framework/settings.py" />
+        <option value="$PROJECT_DIR$/musics/models.py" />
+        <option value="$PROJECT_DIR$/musics/serializers.py" />
+        <option value="$PROJECT_DIR$/musics/views.py" />
+>>>>>>> master
         <option value="$PROJECT_DIR$/Django_Rest_framework/urls.py" />
       </list>
     </option>
@@ -149,17 +190,53 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
+<<<<<<< HEAD
   <component name="ProjectFrameBounds" extendedState="1">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1936" />
     <option name="height" value="1056" />
+=======
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="27" />
+    <option name="y" value="255" />
+    <option name="width" value="1878" />
+    <option name="height" value="654" />
+>>>>>>> master
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+<<<<<<< HEAD
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Django_Rest_framework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Django_Rest_framework" type="462c0819:PsiDirectoryNode" />
+=======
+      <pane id="Scope">
+        <subPane subId="Project Files">
+          <expand>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="Django_Rest_framework" type="cbb8eebc:String" user="Django_Rest_framework" />
+>>>>>>> master
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+<<<<<<< HEAD
+      <pane id="Scope">
+        <subPane subId="Project Files">
+          <expand>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="Django_Rest_framework" type="cbb8eebc:String" user="Django_Rest_framework" />
+=======
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -167,16 +244,16 @@
               <item name="Django_Rest_framework" type="b2602c69:ProjectViewProjectNode" />
               <item name="Django_Rest_framework" type="462c0819:PsiDirectoryNode" />
             </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope">
-        <subPane subId="Project Files">
-          <expand>
             <path>
-              <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="Django_Rest_framework" type="cbb8eebc:String" user="Django_Rest_framework" />
+              <item name="Django_Rest_framework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Django_Rest_framework" type="462c0819:PsiDirectoryNode" />
+              <item name="Django_Rest_framework" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Django_Rest_framework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Django_Rest_framework" type="462c0819:PsiDirectoryNode" />
+              <item name="musics" type="462c0819:PsiDirectoryNode" />
+>>>>>>> master
             </path>
           </expand>
           <select />
@@ -185,6 +262,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+<<<<<<< HEAD
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="database.console.LAST_STATE" value="false" />
@@ -192,6 +270,14 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="file.status.colors" />
+=======
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="database.console.LAST_STATE" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Django_Rest_framework/settings.py" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.django.DjangoModulesConfigurable" />
+>>>>>>> master
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -271,6 +357,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
+<<<<<<< HEAD
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="1" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="7" weight="0.3293348" />
@@ -295,6 +382,32 @@
       <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
       <window_info anchor="bottom" id="Database Console" order="0" sideWeight="0.49946696" weight="0.3293348" />
       <window_info anchor="bottom" id="Find" order="2" />
+=======
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3293348" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50159913" side_tool="true" visible="true" weight="0.3293348" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Python Console" order="7" sideWeight="0.49840087" weight="0.3293348" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.9221748" weight="0.26717559" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49840087" visible="true" weight="0.3293348" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16364606" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" order="3" visible="true" weight="0.32995737" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" id="SciView" order="3" weight="0.32995737" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Database Console" sideWeight="0.49946696" weight="0.3293348" />
+>>>>>>> master
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -304,6 +417,7 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/Django_Rest_framework/views.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="92">
@@ -358,6 +472,8 @@
         </state>
       </provider>
     </entry>
+=======
+>>>>>>> master
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="299">
@@ -366,6 +482,7 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Django_Rest_framework/Django_Rest_framework/settings.py" />
+<<<<<<< HEAD
     <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/site-packages/django/conf/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="445">
@@ -414,12 +531,19 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="212">
           <caret line="15" column="34" selection-start-line="15" selection-start-column="34" selection-end-line="15" selection-end-column="34" />
+=======
+    <entry file="file://$PROJECT_DIR$/musics/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="10" column="38" lean-forward="true" selection-start-line="10" selection-start-column="38" selection-end-line="10" selection-end-column="38" />
+>>>>>>> master
           <folding>
             <element signature="e#0#35#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/shares/tests.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -429,10 +553,19 @@
           <caret line="8" column="26" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
           <folding>
             <element signature="e#0#38#0" expanded="true" />
+=======
+    <entry file="file://$PROJECT_DIR$/Django_Rest_framework/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="335">
+          <caret line="22" column="44" selection-start-line="22" selection-start-column="32" selection-end-line="22" selection-end-column="44" />
+          <folding>
+            <element signature="e#646#674#0" expanded="true" />
+>>>>>>> master
           </folding>
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/shares/models.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="161">
@@ -464,10 +597,19 @@
           <caret line="42" selection-start-line="42" selection-end-line="42" />
           <folding>
             <element signature="e#0#35#0" expanded="true" />
+=======
+    <entry file="file://$PROJECT_DIR$/musics/serializers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="483">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+          <folding>
+            <element signature="e#0#37#0" expanded="true" />
+>>>>>>> master
           </folding>
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/site-packages/django/template/backends/django.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
@@ -500,11 +642,18 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="161">
           <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+=======
+    <entry file="file://$PROJECT_DIR$/musics/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="10" column="15" selection-start-line="10" selection-start-column="15" selection-end-line="10" selection-end-column="15" />
+>>>>>>> master
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Django_Rest_framework/settings.py">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="442">
           <caret line="54" column="14" lean-forward="true" selection-start-line="54" selection-start-column="14" selection-end-line="54" selection-end-column="14" />
         </state>
@@ -543,6 +692,24 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="395">
           <caret line="22" column="19" lean-forward="true" selection-start-line="22" selection-start-column="19" selection-end-line="22" selection-end-column="19" />
+=======
+        <state relative-caret-position="299">
+          <caret line="82" column="1" selection-start-line="82" selection-start-column="1" selection-end-line="82" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/site-packages/django/conf/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="445">
+          <caret line="135" column="70" selection-start-line="135" selection-start-column="70" selection-end-line="135" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://16131fdb-0a33-4bdb-8912-1da72eaefa4f/schema/main/table/music">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+>>>>>>> master
         </state>
       </provider>
     </entry>

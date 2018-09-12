@@ -8,6 +8,11 @@ from rest_framework.permissions import IsAuthenticated
 from rest_framework.response import Response
 from rest_framework.parsers import JSONParser
 from rest_framework.decorators import detail_route, list_route
+from musics.models import Music
+from musics.serializers import MusicSerializer
+
+from rest_framework import viewsets
+
 
 
 # Create your views here.
@@ -40,8 +45,6 @@ class MusicViewSet(viewsets.ModelViewSet):
         def all_singer(self, request):
             music = Music.objects.values_list('singer', flat=True).distinct()
             return Response(music, status=status.HTTP_200_OK)
-
-
 
 
 
